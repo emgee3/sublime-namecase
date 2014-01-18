@@ -1,0 +1,18 @@
+[
+    {
+        "id": "edit",
+        "children":
+        [
+            {
+                "id": "convert_case",
+                "children":
+                [
+                    {
+                        "caption": "Name Case",
+                        "command": "name_case"
+                    }
+                ]
+            }
+        ]
+    }
+]
